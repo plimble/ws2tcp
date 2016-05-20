@@ -1,0 +1,14 @@
+{
+	"ImportPath": "github.com/plimble/ws2tcp",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v62",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "golang.org/x/net/websocket",
+			"Rev": "8a52c78636f6b7be1b1e5cb58b01a85f1e082659"
+		}
+	]
+}
